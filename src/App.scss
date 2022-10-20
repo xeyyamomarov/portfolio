@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.app{
+    height: 100vh;
+
+}
+.sections{
+    height:calc(100vh - 70px);
+    background-color:lightsalmon ;
+    position: relative;
+    top: 70px;
+    scroll-behavior: smooth;
+    > *{
+        // width: 100vw;
+        height: calc(100vh - 70px);
+    }
+}
