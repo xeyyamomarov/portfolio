@@ -68,7 +68,8 @@ export const Portfolio = () => {
           return (
             <div key={d.id} className="item">
               <img  src={d.img} alt="" />
-              <h3>{d.title}</h3>
+              {/* <h3>{d.title}</h3> */}
+              <a href={d.link}>{d.title}</a>
             </div>
           );
         })}

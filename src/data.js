@@ -26,14 +26,16 @@ export const webPortfolio = [
   },
   {
     id: 2,
-    title: "sdgsdg",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU,",
+    title: "Todo list",
+    img: "./assets/todolist.png",
+    link:"https://x-todolist-a.netlify.app/"
   },
 
   {
     id: 3,
-    title: "sdgsdg",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU,",
+    title: "Xəbər portalı",
+    img: "./assets/xeberportali.png",
+    link:"https://635239a00f26927922828cdd--xeberportali.netlify.app/"
   },
 ];
 export const designPortfolio = [
