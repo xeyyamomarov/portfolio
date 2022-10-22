@@ -41,36 +41,39 @@ export const webPortfolio = [
 export const designPortfolio = [
   {
     id: 1,
-    title: "sdgsdg",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU,",
+    title: "Facebook login",
+    img: "./assets/fb.png",
+    link:"https://facebookloginpage1.netlify.app/"
   },
   {
     id: 2,
-    title: "sdgsdg",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU,",
+    title: "Template",
+    img: "./assets/template.png",
+    link:"https://template1899.netlify.app/"
   },
 
   {
     id: 3,
-    title: "sdgsdg",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU,",
+    title: "Haber Global",
+    img: "./assets/haberglobal.png",
+    link:"https://habelglobal1.netlify.app/"
   },
 ];
-export const gamePortfolio = [
-  {
-    id: 1,
-    title: "sdgsdg",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU,",
-  },
-  {
-    id: 2,
-    title: "sdgsdg",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU,",
-  },
+// export const gamePortfolio = [
+//   {
+//     id: 1,
+//     title: "sdgsdg",
+//     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU,",
+//   },
+//   {
+//     id: 2,
+//     title: "sdgsdg",
+//     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU,",
+//   },
 
-  {
-    id: 3,
-    title: "sdgsdg",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU,",
-  },
-];
+//   {
+//     id: 3,
+//     title: "sdgsdg",
+//     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU,",
+//   },
+// ];

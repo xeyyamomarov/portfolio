@@ -5,7 +5,7 @@ import {
 //   featuredPortfolio,
   webPortfolio,
   designPortfolio,
-  gamePortfolio,
+  // gamePortfolio,
 } from "../../data";
 export const Portfolio = () => {
   const [selected, setSelected] = useState("featured");
@@ -23,10 +23,10 @@ export const Portfolio = () => {
       id: "design",
       title: "Design",
     },
-    {
-      id: "game",
-      title: "Game",
-    },
+    // {
+    //   id: "game",
+    //   title: "Game",
+    // },
   ];
 
   useEffect(() => {
@@ -40,9 +40,9 @@ export const Portfolio = () => {
       case "design":
         setData(designPortfolio);
         break;
-      case "game":
-        setData(gamePortfolio);
-        break;
+      // case "game":
+      //   setData(gamePortfolio);
+      //   break;
       default:
         setData(webPortfolio);
     }
@@ -69,7 +69,7 @@ export const Portfolio = () => {
             <div key={d.id} className="item">
               <img  src={d.img} alt="" />
               {/* <h3>{d.title}</h3> */}
-              <a href={d.link}>{d.title}</a>
+              <a href={d.link}  >{d.title}</a>
             </div>
           );
         })}
