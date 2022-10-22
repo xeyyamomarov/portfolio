@@ -27,7 +27,7 @@ export const webPortfolio = [
   {
     id: 2,
     title: "Todo list",
-    img: "./assets/todolist.png",
+    img: "./assets/x-todo.png",
     link:"https://x-todolist-a.netlify.app/"
   },
 
