@@ -43,7 +43,7 @@ export const designPortfolio = [
     id: 1,
     title: "Facebook login",
     img: "./assets/fb.png",
-    link:"https://facebookloginpage1.netlify.app/"
+    link:"https://template-faceebooklogin1.netlify.app/"
   },
   {
     id: 2,
