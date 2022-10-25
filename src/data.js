@@ -41,7 +41,7 @@ export const webPortfolio = [
 export const designPortfolio = [
   {
     id: 1,
-    title: "Facebook login",
+    title: "Template",
     img: "./assets/fb.png",
     link:"https://template-faceebooklogin1.netlify.app/"
   },
