@@ -37,6 +37,12 @@ export const webPortfolio = [
     img: "./assets/xeberportali.png",
     link:"https://635239a00f26927922828cdd--xeberportali.netlify.app/"
   },
+  {
+    id: 4,
+    title: "BookStore",
+    img: "./assets/bookstore.png",
+    link:"https://x-bookstore.netlify.app/"
+  },
 ];
 export const designPortfolio = [
   {
@@ -52,12 +58,14 @@ export const designPortfolio = [
     link:"https://template1899.netlify.app/"
   },
 
+
   {
     id: 3,
     title: "Haber Global",
     img: "./assets/haberglobal.png",
     link:"https://habelglobal1.netlify.app/"
   },
+
 ];
 // export const gamePortfolio = [
 //   {
